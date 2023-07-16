@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://moviesstudio78.blogspot.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+ }
